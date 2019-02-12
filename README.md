@@ -11,3 +11,13 @@ Every directory has a notebook, some pictures or files needed for the examples a
 * 04 Python Dictionaries (iniciating - keys - Frequency tables)
 * 05 Python Function fundamentals (built-In functions - GlobalvsLocal  -  mutable&immutable)
 * 07 Python Strings and Exceptions (Upper, lower, tittle, replace, split & join - Format print - Try/Except)
+* 08 Python Object (Class - Method - Attribute)
+* 09 Python Date/time (datetime module)
+
+
+## Numpy and Pandas
+* 13 NumPy Introduction (ndarray - timeit - Shape - axis - Vector math - concatenate - expand_dims - argsrt() )
+* 14 Numpy Continuation (Importing files with Numpy - Working with Boolean Vectors and good practicies with it - Some Shortcuts to work with arrays elements substitutions)
+
+## Working with APIs
+* 52 JSON
