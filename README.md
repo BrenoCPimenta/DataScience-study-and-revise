@@ -7,3 +7,7 @@ Every directory has a notebook, some pictures or files needed for the examples a
 ## Python Basics
 * 01 Python List (append - negative indexing - variable types).
 * 02 Python Files (csv files - text files).
+* 03 Python Conditionals (True/False -  if/elif/else - comparation operators)
+* 04 Python Dictionaries (iniciating - keys - Frequency tables)
+* 05 Python Function fundamentals (built-In functions - GlobalvsLocal  -  mutable&immutable)
+* 07 Python Strings and Exceptions (Upper, lower, tittle, replace, split & join - Format print - Try/Except)
