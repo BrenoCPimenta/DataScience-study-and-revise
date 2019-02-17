@@ -18,6 +18,7 @@ Every directory has a notebook, some pictures or files needed for the examples a
 ## Numpy and Pandas
 * 13 NumPy Introduction (ndarray - timeit - Shape - axis - Vector math - concatenate - expand_dims - argsrt() )
 * 14 Numpy Continuation (Importing files with Numpy - Working with Boolean Vectors and good practicies with it - Some Shortcuts to work with arrays elements substitutions)
+* 15 Pandas Introduction (DataFrame - Series - indexing - handymethods - assigning values)
 
 ## Working with APIs
 * 52 JSON
