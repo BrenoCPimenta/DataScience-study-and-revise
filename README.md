@@ -19,6 +19,7 @@ This project is a compilation of study and review notebooks related to data scie
 * 13 NumPy Introduction (ndarray - timeit - Shape - axis - Vector math - concatenate - expand_dims - argsrt() )
 * 14 Numpy Continuation (Importing files with Numpy - Working with Boolean Vectors and good practicies with it - Some Shortcuts to work with arrays elements substitutions)
 * 15 Pandas Introduction (DataFrame - Series - indexing - handymethods - assigning values)
+* 16 Pandas Exploring Data (Importing - ComparationOper - Add series to df - avoiding loops)
 
 ## Working with APIs
 * 52 JSON
