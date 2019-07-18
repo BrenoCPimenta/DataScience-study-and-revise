@@ -21,5 +21,8 @@ This project is a compilation of study and review notebooks related to data scie
 * 15 Pandas Introduction (DataFrame - Series - indexing - handymethods - assigning values)
 * 16 Pandas Exploring Data (Importing - ComparationOper - Add series to df - avoiding loops)
 
+## Data Visualization
+* 18 Line Charts (matplotlib - plt show - xticks - xlabel - title)
+
 ## Working with APIs
 * 52 JSON
