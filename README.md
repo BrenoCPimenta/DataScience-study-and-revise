@@ -20,6 +20,7 @@ This project is a compilation of study and review notebooks related to data scie
 * 14 Numpy Continuation (Importing files with Numpy - Working with Boolean Vectors and good practicies with it - Some Shortcuts to work with arrays elements substitutions)
 * 15 Pandas Introduction (DataFrame - Series - indexing - handymethods - assigning values)
 * 16 Pandas Exploring Data (Importing - ComparationOper - Add series to df - avoiding loops)
+* 17 Data Cleaning Basics (text to numeric - series.str.rsplit() - pd.Series.map() - saving csv file)
 
 ## Data Visualization
 * 18 Line Charts (matplotlib - plt show - xticks - xlabel - title)
