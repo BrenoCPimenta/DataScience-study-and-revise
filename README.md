@@ -24,6 +24,7 @@ This project is a compilation of study and review notebooks related to data scie
 
 ## Data Visualization
 * 18 Line Charts (matplotlib - plt show - xticks - xlabel - title)
+* 19 Multiple plots (multicharts in one plot - multilines in one plot - line color - legend)
 
 ## Working with APIs
 * 52 JSON
